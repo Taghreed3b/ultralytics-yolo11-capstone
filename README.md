@@ -37,8 +37,7 @@ some false alarms, which is the right trade-off for a medical triage system.
 ## How to run
 
 1. Open `capstone_ultralytics_yolo11.ipynb` in [Google Colab](https://colab.research.google.com/).
-2. Enable GPU: **Runtime → Change runtime type → T4 GPU**.
-3. **Runtime → Run all** (≈ 10–15 minutes). Models and dataset download automatically.
+2. **Runtime → Run all** (≈ 10–15 minutes). Models and dataset download automatically.
 
 ## Training program
 
