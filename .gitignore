@@ -1,0 +1,23 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Ultralytics training artifacts
+runs/
+*.pt
+*.onnx
+*.engine
+*.torchscript
+
+# Datasets & downloaded media
+datasets/
+*.mp4
+*.avi
+
+# Secrets / keys
+.env
+*.key
+*.pem
