@@ -29,8 +29,7 @@ Setup → Train (best.pt) → Detect + Segment → Screen & count (OpenCV) → E
 | Precision | 0.47 |
 | Recall | 0.80 |
 
-Recall (0.80) > Precision (0.47) — the model is sensitive and catches most tumors at the cost of
-some false alarms, which is the right trade-off for a medical triage system.
+The model achieved higher recall (0.80) than precision (0.47). This recall-oriented behavior may be useful for a screening prototype, although the model is intended for educational purposes only and is not suitable for clinical diagnosis.
 
 ## How to run
 
