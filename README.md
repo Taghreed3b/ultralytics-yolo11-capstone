@@ -2,9 +2,7 @@
 
 An end-to-end computer-vision application built with **Ultralytics YOLO11** for one medical
 use case: **detecting brain tumors in MRI scans** and running an **automated screening pipeline**
-that streams scans, detects tumors, and counts them. Every stage uses the same auto-downloaded
-**Brain-Tumor** dataset — no API key, no external service.
-
+that streams scans, detects tumors, and counts them. 
 ## What it does
 
 | Capability | Model / API | Task |
