@@ -29,7 +29,7 @@ Setup → Train (best.pt) → Detect + Segment → Screen & count (OpenCV) → E
 | Precision | 0.47 |
 | Recall | 0.80 |
 
-The model achieved higher recall (0.80) than precision (0.47). This recall-oriented behavior may be useful for a screening prototype, although the model is intended for educational purposes only and is not suitable for clinical diagnosis.
+The model achieved higher recall (0.80) than precision (0.47). This recall-oriented behavior may be useful for a screening prototype. However, this project is intended for educational purposes only and has not been validated for clinical diagnosis.
 
 ## How to run
 
@@ -41,5 +41,5 @@ The model achieved higher recall (0.80) than precision (0.47). This recall-orien
 Completed under **Computer Vision for Developers with Ultralytics** — **SDAIA Academy**
 
 
-- Cohort / session dates: _<Aug 09,2026>_
+- Cohort / session dates: Aug 09–13, 2026
 - SDAIA Academy on GitHub: https://github.com/SDAIAAcademy
