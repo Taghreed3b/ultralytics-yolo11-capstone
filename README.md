@@ -44,5 +44,5 @@ some false alarms, which is the right trade-off for a medical triage system.
 Completed under **Computer Vision for Developers with Ultralytics** — **SDAIA Academy**
 (Learning Space), 5-day on-site capstone, 30 training hours.
 
-- Cohort / session dates: _<Aug o9,2026>_
+- Cohort / session dates: _<Aug 09,2026>_
 - SDAIA Academy on GitHub: https://github.com/SDAIAAcademy
